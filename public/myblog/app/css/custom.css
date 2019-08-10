@@ -1,0 +1,14 @@
+
+.post-standard-details .post-thumb {
+    box-shadow:none;
+    margin-bottom: 60px;
+    text-align: center;
+    float: none;
+}
+
+
+
+.post-standard-details .post-thumb> img
+  {
+        box-shadow: 24px 50px 60px rgba(0, 0, 0, 0.3);
+  }
